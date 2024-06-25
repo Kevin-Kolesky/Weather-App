@@ -1,6 +1,6 @@
-# Prject Weather App
+# Project Weather App
 
-## Prject description
+## Project description
 Create a Weather App that allows users to check the current weather conditions of any location. Users can enter a city or a zip code,
 and the application will display the current temperature, weather description, humidity,
 and wind speed for that location. The application will utilize JavaScript for frontend logic and fetch weather data from a public API.
