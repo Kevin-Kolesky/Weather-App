@@ -6,14 +6,14 @@ and the application will display the current temperature, weather description, h
 and wind speed for that location. The application will utilize JavaScript for frontend logic and fetch weather data from a public API.
 
 ## Project Requirements
-###    1. Front-end:
-        - Create an HTML file (index.html) with input fields for users to enter the location.
-        - Use a CSS file (styles.css) for styling the Weather App interface.
-        - Implement frontend logic in a JavaScript file (script.js) to handle user input, fetch weather data from the API, and display the weather information on the webpage.
-###    2. API Integration:
-        - Use a public weather API (e.g., OpenWeatherMap, Weatherstack) to fetch weather data based on the user's input.
-        - Make AJAX requests to the API to retrieve weather information.
-###    3. Functionality:
+### 1. Front-end:
+- Create an HTML file (index.html) with input fields for users to enter the location.
+- Use a CSS file (styles.css) for styling the Weather App interface.
+- Implement frontend logic in a JavaScript file (script.js) to handle user input, fetch weather data from the API, and display the weather information on the webpage.
+### 2. API Integration:
+- Use a public weather API (e.g., OpenWeatherMap, Weatherstack) to fetch weather data based on the user's input.
+- Make AJAX requests to the API to retrieve weather information.
+### 3. Functionality:
         - Users can enter a city name or a zip code.
         - The application fetches weather data from the API based on the user's input.
         - Display the current temperature, weather description, humidity, and wind speed for the specified location.
