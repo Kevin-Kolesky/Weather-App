@@ -1,0 +1,9 @@
+body {
+    text-align: center !important;
+    color: white !important;
+    background-color: #032541 !important;
+}
+
+.weather_description {
+    margin-top: 2rem !important;
+}
